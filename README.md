@@ -5,7 +5,7 @@ Just a simple "applicattion" that alerts you from Peter Griffin. Its based in a 
 <br>
 
 ## How to run it?
-Clone or download the zip of the repository, or just download the .jar file. Then just make double xlick on it or run the following command:
+Clone or download the zip of the repository, or just download the .jar file. Then just make double click on it or run the following command:
 ```bash
 java -jar "Peter.java"
 ```
